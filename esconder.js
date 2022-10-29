@@ -1,0 +1,8 @@
+function MudarDiv(el) {
+  var display = document.getElementById(el).style.display;
+  if (display == "none")
+    document.getElementById(el).style.display = 'block';
+  else
+    document.getElementById(el).style.display = 'none';
+    document.getElementById("minhaDiv").innerHTML ="botos newon e niufweuifhhweuiiuwehf" 
+} 
